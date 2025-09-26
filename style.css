@@ -118,6 +118,7 @@
 }
 .button img{
     border-radius: 100%;
+    border:3px solid red;
     }
   .button button{
         border-radius: 100%;
