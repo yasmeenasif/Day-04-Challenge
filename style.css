@@ -6,7 +6,7 @@
     height:920px;
     background-color: white;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    border:1px solid black;
+    border:1px solid lightgray;
     border-radius: 30px;
     background-color:lightgray;
   }
@@ -83,7 +83,7 @@
     margin-left: 250px;
     width:1030px;
     height:870px;
-    border:1px solid black;
+    border:1px solid honeydew;
     border-radius: 30px;
     z-index: 2;
     background-color:honeydew;
